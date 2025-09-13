@@ -21,7 +21,7 @@ const projects = [
     title: "Portfolio Website",
     description: "A custom-built portfolio website showcasing work history, projects, and skills with smooth transitions and animations.",
     image: "https://images.unsplash.com/photo-1547658719-da2b51169166?ixlib=rb-4.0.3&auto=format&fit=crop&w=1050&q=80",
-    demoUrl: "#",
+    demoUrl: "https://personal-portfolio-bay-zeta.vercel.app/",
     caseStudyUrl: "#"
   },
   {
