@@ -11,9 +11,7 @@ const projects = [
   {
     id: 2,
     title: "FaceRecognition Attendance System",
-    description: "This project is a real-time attendance system that uses facial recognition technology to automatically identify
-individuals through a webcam and mark their attendance.
-",
+    description: "This project is a real-time attendance system that uses facial recognition technology to automatically identifyindividuals through a webcam and mark their attendance.",
     image: "https://www.kentcam.com/camattendance/blog/wp-content/uploads/2023/01/MicrosoftTeams-image-246-1024x599.jpg",
     demoUrl: "https://face-recognition-attendance-system-gamma.vercel.app/",
     caseStudyUrl: "#"
