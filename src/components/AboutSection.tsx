@@ -35,7 +35,7 @@ My journey in the world of coding has led me to explore the exciting realm of De
             </ul>
             <div className="mt-8">
               <a 
-                href="https://drive.google.com/file/d/1_TbnhwDdlOavw1PYRR7l6v5DcWgwgXcZ/view?usp=drivesdk" 
+                href="https://drive.google.com/file/d/1DF0qrAx2Vvwpq5_CscNB4SS8uVI2LOQ4/view?usp=drive_link" 
                 target="_blank"
                 rel="noopener noreferrer"
                 className="btn inline-block transition-all duration-300 hover:scale-105 hover:shadow-lg hover:shadow-teal/20"
